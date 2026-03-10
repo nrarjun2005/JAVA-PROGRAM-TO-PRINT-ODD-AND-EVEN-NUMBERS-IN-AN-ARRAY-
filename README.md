@@ -88,3 +88,4 @@ public class SeparateOddEven {
 
 
 ## RESULT:
+Thus, the program to separate odd and even numbers from an array using Java is developed, and the output is verified.
